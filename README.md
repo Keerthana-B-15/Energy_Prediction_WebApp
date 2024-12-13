@@ -17,7 +17,7 @@ The **Energy Prediction Web App** is a machine learning-based platform designed 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Keerthana-B-15/Energy_Prediction_WebApp.git)
+   git clone (https://github.com/Keerthana-B-15/Energy_Prediction_WebApp.git)
    cd Energy_Prediction_WebApp
    ```
 2. Install the dependencies:
